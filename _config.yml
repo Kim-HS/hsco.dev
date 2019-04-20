@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" #"default" "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "HSCODEV's great archive"
+title                    : "HS Space"
 title_separator          : "-"
 name                     : "Kim Hyoung-Seok"
 description              : "An amazing website."
@@ -109,12 +109,12 @@ author:
   name             : "Kim Hyoung-Seok"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Seoul, Republic of Korea"
+  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: #mailto:hsco.dev@gmail.com
+      # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
