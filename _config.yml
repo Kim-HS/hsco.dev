@@ -109,7 +109,6 @@ author:
   name             : "Kim Hyoung-Seok"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Seoul, Republic of Korea"
   location         : "Seoul"
   email            :
   links:
