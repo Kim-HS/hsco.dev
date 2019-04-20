@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" #"default" "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Codev's great archives"
+title                    : "HSCODEV's great archive"
 title_separator          : "-"
 name                     : "Kim Hyoung-Seok"
 description              : "An amazing website."
@@ -108,15 +108,16 @@ analytics:
 author:
   name             : "Kim Hyoung-Seok"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "for the code"
-  location         : "Seoul, South Korea"
+  bio              : "I am an amazing person."
+  location         : "Seoul, Republic of Korea"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-#       url: "mailto:hsco.dev@gmail.com"
+       url: mailto:hsco.dev@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://hsco.dev"
+      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -141,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/hscodev"
+      # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
